@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SolamateanTehCoder
-- 👀 I’m interested in HTML and Scratch
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in HTML, JS, Python and Scratch
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him

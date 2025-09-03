@@ -1,7 +1,6 @@
-# Yo! Welcome 👋
+# Hi 👋
 
-You know my name, now check out my code.  
-Here’s where I drop all my random projects, hacks, and experiments. If it works, it ships 😎
+You know my name, so I ain't gonna bother.
 
 ---
 
@@ -11,23 +10,9 @@ Here’s where I drop all my random projects, hacks, and experiments. If it work
 - **Discord:** [Solamaetean](https://discord.com/users/1286393510181736530) — slide into my DMs anytime!
 ---
 
-## 🌟 Projects
-
-- **[amusic](https://pypi.org/project/amusic/):**  
-  Midi visualizer. It’s kinda cool, go play with it.
-
-- **[Age of Empires II: DE History Files](https://solamateantehcoder.github.io/aoe2_history_files/):**  
-  All the AoE2 history stuff in one spot. Because why not?
-
-- *(More projects soon! Or whenever I get bored and code something up)*
-
----
-
 ## 🤝 Community
 
-Always down to chat, meme, or collab.  
-Found a bug? Got a wild idea? Or just wanna say hey?  
-Hit me up on Discord, open an issue, or drop a comment.  
+Always down to chat or collab  
 
 ---
 

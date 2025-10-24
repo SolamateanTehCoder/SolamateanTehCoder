@@ -6,7 +6,7 @@ You know my name, so I ain't gonna bother.
 
 ## 👨‍💻 About Me
 
-- **Languages:** Python, JavaScript, HTML, CSS  
+- **Languages:** Python, Flutter, JavaScript, HTML, CSS  
 - **Discord:** [Solamaetean](https://discord.com/users/1286393510181736530) — slide into my DMs anytime!
 ---
 
